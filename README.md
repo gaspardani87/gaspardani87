@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gaspardani87
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
